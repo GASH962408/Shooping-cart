@@ -23,6 +23,7 @@ export default function App() {
       <Products />
       <Cart />
       <h1>This is a new interface im trying</h1>
+      <h2>This will cause a conflict</h2>
     </div>
   );
 }
