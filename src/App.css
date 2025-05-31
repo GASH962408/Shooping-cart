@@ -1,0 +1,12 @@
+:root {
+  --color-fondo: #fff;
+  --color-texto: #000;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: var(--color-fondo);
+  color: var(--color-texto);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
