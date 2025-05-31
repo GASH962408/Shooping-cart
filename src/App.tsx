@@ -22,6 +22,7 @@ export default function App() {
       </button>
       <Products />
       <Cart />
+      <h1>This is a new interface im trying</h1>
     </div>
   );
 }
